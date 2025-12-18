@@ -1,4 +1,4 @@
-# joaorizzo0112 | Matrix Effect 🧑🏻‍💻
+# joaorizzo0112 | Matrix Effect 
 
 A high-performance generative art project that recreates the iconic "Digital Rain" effect from The Matrix. This laboratory focuses on procedural animation, canvas optimization, and real-time parameter manipulation through a custom-built interface.
 
